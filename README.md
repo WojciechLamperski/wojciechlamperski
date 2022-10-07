@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on acquiring a well-rounded knowledge, needed for employment, 
 so you will see me adding lots of exercises and homeworks from bootcamp
 <br/>
-- 📫 You can reach me via my <a href="https://www.linkedin.com/in/wojciech-lamperski/" target="_blank">LinkedIn</a> account.
+- 📫 You can reach me via my [Infoshare Academy](https://www.linkedin.com/in/wojciech-lamperski/) account.
 
 
 <!--

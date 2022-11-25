@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🙍‍♂️ I'm Wojciech Lamperski and I aspire to become a junior frontend developer! <br/>
-- 📝 I'm studying at [Infoshare Academy](https://infoshareacademy.com/). <br/>
+- 📝 I'm a [Infoshare Academy](https://infoshareacademy.com/) graduate. <br/>
 - 🤓 I have a good understanding of Javascript, HTML and CSS.
 - ⚛️ Currently I'm learning React. <br/>
 - 📫 You can reach me via my [LinkedIn](https://www.linkedin.com/in/wojciech-lamperski/) account. <br/>

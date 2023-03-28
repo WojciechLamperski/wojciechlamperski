@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🙍‍♂️ My name is Wojciech Lamperski and I'm a frontend developer! <br/>
-- 📝 I'm an [Infoshare Academy](https://infoshareacademy.com/) graduate. <br/>
 - 🤓 I have a good understanding of Javascript, HTML and CSS.
 - ⚛️ I also know React. <br/>
 - 📫 You can reach me via my [LinkedIn](https://www.linkedin.com/in/wojciech-lamperski/) account. <br/>
